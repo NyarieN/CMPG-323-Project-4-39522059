@@ -1,6 +1,6 @@
 {
-  "name": "Project 4 testing 39522059",
-  "projectId": "af4da250-1098-4946-bb0e-1ea91ed78732",
+  "name": "NWU Tech Trends Telemetry Portal  User Acceptance Testing",
+  "projectId": "83627b4a-a73b-4cd8-a3b7-7fad9c1d699a",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -46,11 +46,11 @@
     "fileInfoCollection": [],
     "saveToCloud": false
   },
-  "expressionLanguage": "CSharp",
+  "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "4311e840-b970-4276-9ff0-d5b7e205730a",
+      "uniqueId": "1c7500c8-f2e0-458b-a6b7-599c35519bb1",
       "input": [],
       "output": []
     }

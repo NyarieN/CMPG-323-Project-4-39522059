@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome techtrendstelemetryportal.azurewebsites.netclients - Google Chrome",
+  "Type": "App",
+  "Id": "v7uPLUobYUKIzShb0zy-yw",
+  "Reference": "w4Nqx5vQf0WSymF2qmB1LQ/v7uPLUobYUKIzShb0zy-yw",
+  "Created": "2024-09-06T14:36:49.302732Z",
+  "Updated": "2024-09-06T14:36:49.302732Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
